@@ -23,3 +23,7 @@ Find the exe, then run it.
 <p align="center">
 	<img src="./.md_asset/ss_2024.07.10-0636.png" />
 </p>
+
+## Link untuk Traktir
+
+- https://karyakarsa.com/rakifsul/info
