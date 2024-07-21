@@ -14,6 +14,10 @@ You can also make the password unique if possible.
 
 Download this app on "Releases" page.
 
+## Where are the Source Codes
+
+Source codes are included in the zip along with the executables.
+
 ## How to Use
 
 Find the exe, then run it.
