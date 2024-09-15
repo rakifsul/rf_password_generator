@@ -28,6 +28,6 @@ Find the exe, then run it.
 	<img src="./.md_asset/ss_2024.07.10-0636.png" />
 </p>
 
-## Link untuk Traktir
+## Freelance Worker Link
 
-- https://karyakarsa.com/rakifsul/info
+- https://projects.co.id/public/browse_users/view/99bc11/rakifsul
