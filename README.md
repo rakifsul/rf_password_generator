@@ -3,8 +3,6 @@
 
 # rf_password_generator - Password Generator App
 
-[README dengan Bahasa Indonesia Klik di Sini](https://github.com/rakifsul/rf_password_generator/blob/main/README_id.md)
-
 ## Intro
 
 This application is a tool that can create passwords that are not easily guessed.
